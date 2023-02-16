@@ -31,4 +31,3 @@ To resolve this issue:
 
 [lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: http://
-
