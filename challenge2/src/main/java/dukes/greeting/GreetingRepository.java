@@ -19,4 +19,8 @@ public class GreetingRepository {
         cq.select(cq.from(Greeting.class));
         return em.createQuery(cq).getResultList();
     }
+
+    public void saveGreeting(Greeting greeting) {
+        em.persist(greeting);
+    }
 }

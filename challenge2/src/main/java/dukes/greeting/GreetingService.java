@@ -19,4 +19,11 @@ public class GreetingService {
                 .orElse(new GreetingRecord("Hello, World", LocalDate.now()));
 
     }
+
+    public void saveGreeting(GreetingRecord greetingRecord) {
+
+        Greeting greeting = new Greeting(greetingRecord.message());
+        greetingRepository.saveGreeting(greeting);
+    }
+
 }
