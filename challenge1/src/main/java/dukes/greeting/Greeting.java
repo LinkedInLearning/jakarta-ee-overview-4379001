@@ -14,13 +14,13 @@ public class Greeting {
     @Column(name  = "id")
     private UUID id;
     @Column(name = "message")
-    private String messaage;
+    private String message;
 
     public Greeting() {
     }
 
     public Greeting(String messaage) {
-        this.messaage = messaage;
+        this.message = messaage;
     }
 
     public UUID getId() {
@@ -31,11 +31,11 @@ public class Greeting {
         this.id = id;
     }
 
-    public String getMessaage() {
-        return messaage;
+    public String getMessage() {
+        return message;
     }
 
-    public void setMessaage(String messaage) {
-        this.messaage = messaage;
+    public void setMessage(String messaage) {
+        this.message = messaage;
     }
 }
