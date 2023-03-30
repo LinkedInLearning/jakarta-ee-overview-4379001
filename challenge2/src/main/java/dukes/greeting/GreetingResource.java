@@ -4,6 +4,8 @@ package dukes.greeting;
 // set the path to /greeting
 public class GreetingResource {
 
+    // Inject the Greetings Service EJB
+
     // Add a method that responds to a HTTP GET and returns a greeting record
     // received from the Greeting Service
 
