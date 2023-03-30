@@ -1,7 +1,7 @@
 package dukes.greeting;
 
 // Give the repository an appropriate CDI scope. Hint: You can also use the pseudo-scope @Dependent
-public class GreetingRespository {
+public class GreetingRepository {
 
     // define an EntityManager
     // Hint: Use the @PersistenceContext qualifier
