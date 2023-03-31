@@ -37,9 +37,9 @@ To resolve this issue:
 
 ## Solutions
 *Try to solve the challenge yourself before looking at the solutions*
-1. [Challenge 1](https://github.com/ivargrimstad/jakarta-ee-overview-4379001/tree/02_03)
-2. [Challenge 2](https://github.com/ivargrimstad/jakarta-ee-overview-4379001/tree/03_03)
-3. [Challenge 3](https://github.com/ivargrimstad/jakarta-ee-overview-4379001/tree/04_03)
+1. [Challenge 1](https://github.com/LinkedInLearning/jakarta-ee-overview-4379001/tree/02_03)
+2. [Challenge 2](https://github.com/LinkedInLearning/jakarta-ee-overview-4379001/tree/03_03)
+3. [Challenge 3](https://github.com/LinkedInLearning/jakarta-ee-overview-4379001/tree/04_03)
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
