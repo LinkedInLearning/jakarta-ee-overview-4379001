@@ -31,7 +31,15 @@ To resolve this issue:
    - Unzip the downloaded file 
    - Navigate to `glassfish7/bin`
    - Start Apache Derby by typing the following command: `asadmin start-database`
-   - Start Eclipse GlassFish by typing the following command `asadmin start-domain`
+   - Start Eclipse GlassFish by typing the following command `asadmin start-domain`'
+4. Tip
+   - [HTTPie](https://httpie.io/) is a great tool for interacting with RESTful Endpoints.
+
+## Solutions
+*Try to solve the challenge yourself before looking at the solutions*
+1. [Challenge 1](https://github.com/ivargrimstad/jakarta-ee-overview-4379001/tree/02_03)
+2. [Challenge 2](https://github.com/ivargrimstad/jakarta-ee-overview-4379001/tree/03_03)
+3. [Challenge 3](https://github.com/ivargrimstad/jakarta-ee-overview-4379001/tree/04_03)
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
