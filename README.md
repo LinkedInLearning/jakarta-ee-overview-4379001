@@ -1,7 +1,12 @@
 # Jakarta EE Overview
-This is the repository for the LinkedIn Learning course `Jakarta EE Overview`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Jakarta EE Overview. The full course is available from [LinkedIn Learning][lil-course-url].
+
+![Jakarta EE Overview][lil-thumbnail-url] 
+
+Do you need an overview of Jakarta EE as a whole? In this course, Java Champion and Jakarta EE Developer Advocate Ivar Grimstad guides you through the purpose of Jakarta EE and the specifications that you will need to understand. Ivar presents a quick overview of Jakarta EE, its specifications and implementations, the containers you will use for different component types, and the standard units for deployments. He goes into more depth on the Jakarta EE Platform, then dives into Web Profiles and Core Profiles. Packed with useful tips and practical challenges, this course can help you to decide the next steps in your Jakarta EE journey.
 
 _See the readme file in the main branch for updated instructions and information._
+
 ## Instructions
 The starting point for the challenges are in the main branch of this repository.
 The solutions are in separate branches. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -41,7 +46,16 @@ To resolve this issue:
 2. [Challenge 2](https://github.com/LinkedInLearning/jakarta-ee-overview-4379001/tree/03_03)
 3. [Challenge 3](https://github.com/LinkedInLearning/jakarta-ee-overview-4379001/tree/04_03)
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+### Instructor
+
+Ivar Grimstad 
+                            
+
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ivar-grimstad).
+
+[lil-course-url]: https://www.linkedin.com/learning/jakarta-ee-overview?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQE_l0w9P-In5g/learning-public-crop_675_1200/0/1683911963227?e=2147483647&v=beta&t=hrsZbkDLsVF9y1HePeXEIfS6eCR6vrFdDmKj3zitCUA
